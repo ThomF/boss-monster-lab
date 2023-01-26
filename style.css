@@ -1,0 +1,17 @@
+.hero-1{
+    height: 9em;
+}
+
+.xeno{
+    height: 18em;
+}
+
+.reset-btn{
+    width: 8em;
+    height: 3em;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/8f/11/47/8f114751bd5791a53b961da124a156a7.jpg);
+    background-size: cover;
+}
